@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+}
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.list {
+  list-style: none;
+}
+.list-item {
+  background-color: gray;
+  margin: 15px 0px;
+  text-align: center;
+  padding: 10px;
+}
+.list-item-span {
+  background-color: yellow;
+}
